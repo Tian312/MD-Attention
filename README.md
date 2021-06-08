@@ -1,7 +1,7 @@
 # MD-informed Self-Attention :octocat: 
 We introduce ***`Medical Evidence Dependency(MD)-informed Self-Attention`***, a Neuro-Symbolic Model for understanding free-text medical evidence in literature. We hypothesize this method can get the best of both: the high capacity of neural networks and the rigor, semantic clarity and reusability of symbolic logic.  
 
-* Citation: Kang, T., Turfah, A. Kim, J. Perotte, A. and Weng, C. (2021). *A Neuro-Symbolic Method for Understanding Free-text Medical Evidence.* Journal of the American Medical Informatics Association (in press)
+* Citation: Kang, T., Turfah, A. Kim, J. Perotte, A. and Weng, C. (2021). *[A Neuro-Symbolic Method for Understanding Free-text Medical Evidence.](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocab077/6270974?login=true)* Journal of the American Medical Informatics Association (in press)
 * Contact: [Tian Kang](http://www.tiankangnlp.com)  (tk2624@cumc.columbia.edu)  
 * Affiliation: Department of Biomedical Informatics, Columbia Univerisity ([Dr. Chunhua Weng](http://people.dbmi.columbia.edu/~chw7007/)'s lab)   
 
